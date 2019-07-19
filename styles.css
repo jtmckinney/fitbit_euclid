@@ -1,0 +1,15 @@
+.background {
+  viewport-fill: fb-black;
+}
+.sec-hand {
+  x: 0;
+  y: 0;
+}
+.min-hand {
+  x: 0;
+  y: 0;
+}
+.hour-hand {
+  x: 0;
+  y: 0;
+}
